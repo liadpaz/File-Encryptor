@@ -1,3 +1,6 @@
+Run "FileEncryptor.exe"
+
+
 Choose file to encrypt/decrypt
 
 
