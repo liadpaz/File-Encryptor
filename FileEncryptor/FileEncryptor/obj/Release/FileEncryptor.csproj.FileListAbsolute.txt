@@ -1,0 +1,9 @@
+C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\bin\Release\FileEncryptor.exe.config
+C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\bin\Release\FileEncryptor.exe
+C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\bin\Release\FileEncryptor.pdb
+C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\obj\Release\FileEncryptor.Form1.resources
+C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\obj\Release\FileEncryptor.Properties.Resources.resources
+C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\obj\Release\FileEncryptor.csproj.GenerateResource.cache
+C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\obj\Release\FileEncryptor.csproj.CoreCompileInputs.cache
+C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\obj\Release\FileEncryptor.exe
+C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\obj\Release\FileEncryptor.pdb
