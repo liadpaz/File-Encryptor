@@ -7,3 +7,4 @@ C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\obj\Release\FileEncryptor
 C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\obj\Release\FileEncryptor.csproj.CoreCompileInputs.cache
 C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\obj\Release\FileEncryptor.exe
 C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\obj\Release\FileEncryptor.pdb
+C:\Users\Liad\source\repos\FileEncryptor\FileEncryptor\obj\Release\FileEncryptor.csprojAssemblyReference.cache

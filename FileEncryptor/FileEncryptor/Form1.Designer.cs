@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.Password = new System.Windows.Forms.TextBox();
             this.State = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -89,9 +90,10 @@
             this.label2.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(2, 2);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(372, 36);
+            this.label2.Size = new System.Drawing.Size(393, 36);
             this.label2.TabIndex = 5;
-            this.label2.Text = "Choose file to encrypt/decrypt. Press the \"Action\" button\nwhen GREEN to encrypt, press when RED to decrypt";
+            this.label2.Text = "Choose file to encrypt/decrypt. Press the \"Action\" button\nwhen GREEN to encrypt, " +
+    "press when RED to decrypt";
             // 
             // Path_Box
             // 
@@ -138,7 +140,9 @@
             this.Controls.Add(this.State);
             this.Controls.Add(this.Password);
             this.Controls.Add(this.label2);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
+            this.ShowIcon = false;
             this.Text = "File Cryptor";
             this.ResumeLayout(false);
             this.PerformLayout();
